@@ -1,5 +1,7 @@
 # Python-Data-Visualization
 
+Jupyter notebook is utilized for this project.
+
 ![boxplot](https://user-images.githubusercontent.com/113489022/210680452-f2853af6-c33e-4773-bd94-d14e0f242d97.png)
 
 ![PairPlot](https://user-images.githubusercontent.com/113489022/210680456-76ecf943-8450-4073-a8f2-d48c5857fb49.png)
